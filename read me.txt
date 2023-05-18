@@ -1,0 +1,6 @@
+Build a responsive website using React JS and Tailwind CSS.
+Create dynamic and interactive user interfaces with React's component-based architecture,
+while leveraging the power of Tailwind CSS for rapid styling and layout customization.
+Deliver an engaging and visually appealing web experience that seamlessly adapts 
+to different screen sizes and devices.
+https://github.com/yassinezomorroud98/responsive-website.git
